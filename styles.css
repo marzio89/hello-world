@@ -1,0 +1,24 @@
+body {
+  color: #414141; /*grigio scuro*/
+  background-color: #FFFFFF; /*grigio chiaro*/
+}
+  h1,h2,h3 {
+    font-family:"helvetica", "arial", sans-serif;
+    font-weight: normal;
+  }
+  ul {
+    list-style-type:lower-roman;
+  }
+  ol {
+    list-style-type:circle;
+  }
+  ul {
+    list-style-image:url('https://mdn.mozillademos.org/files/11981/starsolid.gif');
+  }
+  a {
+    text-decoration:none;
+  }
+  h1,h2,p,ol,ul {
+    text-align:center;
+  }
+  
