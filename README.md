@@ -1,5 +1,5 @@
 # hello-world
-Primo approccio per imparare git
+Primo approccio alla programmazione.
 
 Ciao a tutti,
 
